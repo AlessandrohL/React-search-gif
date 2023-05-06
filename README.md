@@ -8,4 +8,4 @@ resultados de búsqueda se muestran en una cuadrícula de imágenes con un tama�
 distinto,  lo que facilita la visualización de varios gifs al mismo tiempo.
 
 Desplegado en la plataforma de *Netlify*.
-Página: [Click aquí](https://lista-de-tareas-c.netlify.app/) 
+Página: [Click aquí](https://search-gifs-react-js.netlify.app) 
