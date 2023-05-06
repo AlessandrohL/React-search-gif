@@ -6,3 +6,6 @@ y visualizar una amplia variedad de gifs.
 La aplicación utiliza la API de Giphy para buscar y mostrar los gifs. Los 
 resultados de búsqueda se muestran en una cuadrícula de imágenes con un tamaño
 distinto,  lo que facilita la visualización de varios gifs al mismo tiempo.
+
+Desplegado en la plataforma de *Netlify*.
+Página: [Click aquí](https://react-shop-alessandro.netlify.app) 
